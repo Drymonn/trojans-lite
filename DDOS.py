@@ -9,3 +9,7 @@ def usage():
     print ("##    Team ===>>> GanosecTeam"):
     print ("##    Instagram ===>>> Anakjah4t"):
     print ("##########################################"):
+def flood(victim, vport, duration):
+    
+    
+
